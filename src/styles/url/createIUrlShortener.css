@@ -1,0 +1,39 @@
+.createUrl-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 95%;
+  margin: -40px 0px 15px 20px;
+  background-blend-mode: color-burn;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 50vh;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+
+.url {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.shortUrl {
+  margin-left: -34px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.urlInput,
+.shortUrlInput {
+  border-radius: 5px;
+  border-color: aqua;
+}

@@ -1,0 +1,47 @@
+.monthwise {
+  width: 60%;
+  padding: 20px;
+  margin-left: 30px;
+  background: rgb(36, 43, 42);
+  border-radius: 5px;
+  height: 70vh;
+}
+
+.monthInput {
+  border-radius: 5px;
+  border-color: aqua;
+  padding: 5px;
+  margin: 45px 15px 5px 220px;
+  color: aqua;
+}
+
+.monthReset {
+  border-radius: 5px;
+  border-color: aqua;
+  padding: 5px;
+  width: 100px;
+  color: aqua;
+}
+
+.dayWise {
+  width: 33%;
+  padding: 20px;
+  margin-left: 30px;
+  background: rgb(36, 43, 42);
+  border-radius: 5px;
+  height: 70vh;
+}
+
+.chart {
+  width: 100%;
+  display: flex;
+  margin-top: 20px;
+}
+
+.doughnut-chart {
+  height: 100% !important;
+}
+
+.line-chart {
+  height: 75% !important;
+}

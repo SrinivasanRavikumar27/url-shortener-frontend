@@ -1,0 +1,29 @@
+.table-container {
+    overflow-x: auto;
+    width: 95% !important;
+    margin-left: 30px;
+  }
+  
+  .url-table {
+    width: 100%;
+    border-collapse: collapse;
+    border:  2px solid grey;
+    max-height: 100vh;
+  }
+  
+  .url-table th {
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+  }
+
+  .url-table td {
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  
+
+  
